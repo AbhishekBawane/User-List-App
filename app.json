@@ -17,7 +17,8 @@
         "foregroundImage": "./assets/images/favicon.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.abhishekbawane.userlistapp"
     },
     "web": {
       "output": "static",
@@ -41,6 +42,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f84612b2-e6f1-4983-a19f-24552f8e9e15"
+      }
     }
   }
 }
