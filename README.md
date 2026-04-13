@@ -33,5 +33,5 @@ npm start
 
 ## 📦 APK Download
 
-[Google Drive Link]
+https://drive.google.com/file/d/1Xv6D2oxWZ0ezRpNzN8798-sj01KSWPh5/view?usp=sharing
 
