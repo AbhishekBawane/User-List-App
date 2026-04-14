@@ -16,9 +16,8 @@
 
 ## 📸 Screenshots
 
-![Home](./screenshots/home.png)
-![Search](./screenshots/search.png)
-![Detail](./screenshots/detail.png)
+![Home](https://drive.google.com/file/d/1_jZZuAT6C06na876fFnIdKEs4kdLC0RA/view?usp=sharing)
+![Detail](https://drive.google.com/file/d/1f1-97Ib497w5OZ1ydnJFLyA-pL2cpCuR/view?usp=sharing)
 
 ## ▶️ Run Locally
 
@@ -29,9 +28,9 @@ npm start
 
 ## 🌐 Live Demo (Web)
 
-[https://your-app.vercel.app]
+[https://user-list-app-delta.vercel.app/]
 
 ## 📦 APK Download
 
-https://drive.google.com/file/d/1Xv6D2oxWZ0ezRpNzN8798-sj01KSWPh5/view?usp=sharing
+[ https://drive.google.com/file/d/1Xv6D2oxWZ0ezRpNzN8798-sj01KSWPh5/view?usp=sharing ]
 
