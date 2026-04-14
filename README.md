@@ -14,11 +14,6 @@
 * Expo Router
 * JavaScript / TypeScript
 
-## 📸 Screenshots
-
-![Home](https://drive.google.com/file/d/1_jZZuAT6C06na876fFnIdKEs4kdLC0RA/view?usp=sharing)
-![Detail](https://drive.google.com/file/d/1f1-97Ib497w5OZ1ydnJFLyA-pL2cpCuR/view?usp=sharing)
-
 ## ▶️ Run Locally
 
 ```bash
